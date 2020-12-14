@@ -1,0 +1,11 @@
+# temporary folders
+env
+build
+og_days
+
+# build files
+**/*.so
+**/__pycache__
+**/*.egg-info
+# IDE
+.vscode
