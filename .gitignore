@@ -1,6 +1,7 @@
 # temporary folders
 env
 build
+dist
 og_days
 
 # build files
